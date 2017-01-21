@@ -38,14 +38,6 @@ open class Application {
         log.info("--------------------------------")
         log.info(word.toString())
         log.info("")
-
-//        // fetch customers by last name
-//        log.info("Customer found with findByLastName('Bauer'):")
-//        log.info("--------------------------------------------")
-//        for (bauer in repository.findByLastName("Bauer")) {
-//            log.info(bauer.toString())
-//        }
-        log.info("")
     }
 }
 
